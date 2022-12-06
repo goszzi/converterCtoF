@@ -41,7 +41,7 @@ const conversion = () => {
 			celToFahr()
 		}
 	} else {
-		result.textContent = 'Musisz podać jakąś wartość!'
+		result.textContent = 'You have to enter value!'
 	}
 }
 
